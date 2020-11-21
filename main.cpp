@@ -26,6 +26,6 @@ int main()
 
             std::cout << ir << ' ' << ig << ' ' << ib << "\n";
         }
-    }
+    } //hello
     std::cerr << "\nDone.\n:";
 }
