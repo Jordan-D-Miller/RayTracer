@@ -1,5 +1,5 @@
 #include <iostream>
-
+//Jordan Miller
 int main()
 {
     //image size
