@@ -1,2 +1,5 @@
 # For the image#
 *.ppm
+*.out
+*.vscode
+/build/
